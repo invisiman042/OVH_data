@@ -1,0 +1,4132 @@
+{
+    "call1": {
+        "customer_waiting_time": 103,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call2": {
+        "customer_waiting_time": 161,
+        "is_answered": true,
+        "call_duration": [
+            123
+        ],
+        "waiting_before_answer": 38
+    },
+    "call3": {
+        "customer_waiting_time": 0,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call4": {
+        "customer_waiting_time": 181,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call5": {
+        "customer_waiting_time": 724,
+        "is_answered": true,
+        "call_duration": [
+            704
+        ],
+        "waiting_before_answer": 20
+    },
+    "call6": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call7": {
+        "customer_waiting_time": 46,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 46
+    },
+    "call8": {
+        "customer_waiting_time": 221,
+        "is_answered": true,
+        "call_duration": [
+            175
+        ],
+        "waiting_before_answer": 46
+    },
+    "call9": {
+        "customer_waiting_time": 45,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call10": {
+        "customer_waiting_time": 7,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call11": {
+        "customer_waiting_time": 16,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call12": {
+        "customer_waiting_time": 227,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call13": {
+        "customer_waiting_time": 100,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call14": {
+        "customer_waiting_time": 10,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call15": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call16": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call17": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call18": {
+        "customer_waiting_time": 60,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call19": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call20": {
+        "customer_waiting_time": 172,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0
+        ],
+        "waiting_before_answer": 172
+    },
+    "call21": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call22": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call23": {
+        "customer_waiting_time": 12,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 12
+    },
+    "call24": {
+        "customer_waiting_time": 34,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call25": {
+        "customer_waiting_time": 417,
+        "is_answered": true,
+        "call_duration": [
+            379
+        ],
+        "waiting_before_answer": 38
+    },
+    "call26": {
+        "customer_waiting_time": 273,
+        "is_answered": true,
+        "call_duration": [
+            0,
+            203
+        ],
+        "waiting_before_answer": 70
+    },
+    "call27": {
+        "customer_waiting_time": 401,
+        "is_answered": true,
+        "call_duration": [
+            346
+        ],
+        "waiting_before_answer": 55
+    },
+    "call28": {
+        "customer_waiting_time": 4,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call29": {
+        "customer_waiting_time": "empty",
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call30": {
+        "customer_waiting_time": "empty",
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call31": {
+        "customer_waiting_time": 119,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call32": {
+        "customer_waiting_time": 101,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call33": {
+        "customer_waiting_time": 8,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call34": {
+        "customer_waiting_time": 360,
+        "is_answered": true,
+        "call_duration": [
+            328
+        ],
+        "waiting_before_answer": 32
+    },
+    "call35": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call36": {
+        "customer_waiting_time": 161,
+        "is_answered": true,
+        "call_duration": [
+            125
+        ],
+        "waiting_before_answer": 36
+    },
+    "call37": {
+        "customer_waiting_time": 180,
+        "is_answered": true,
+        "call_duration": [
+            0,
+            91
+        ],
+        "waiting_before_answer": 89
+    },
+    "call38": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call39": {
+        "customer_waiting_time": 147,
+        "is_answered": true,
+        "call_duration": [
+            140
+        ],
+        "waiting_before_answer": 7
+    },
+    "call40": {
+        "customer_waiting_time": 4,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call41": {
+        "customer_waiting_time": 152,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call42": {
+        "customer_waiting_time": 12,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call43": {
+        "customer_waiting_time": 8,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call44": {
+        "customer_waiting_time": 73,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call45": {
+        "customer_waiting_time": 81,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call46": {
+        "customer_waiting_time": 144,
+        "is_answered": true,
+        "call_duration": [
+            129
+        ],
+        "waiting_before_answer": 15
+    },
+    "call47": {
+        "customer_waiting_time": 75,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call48": {
+        "customer_waiting_time": 166,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call49": {
+        "customer_waiting_time": 3,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call50": {
+        "customer_waiting_time": 4,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call51": {
+        "customer_waiting_time": 63,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call52": {
+        "customer_waiting_time": 617,
+        "is_answered": true,
+        "call_duration": [
+            573
+        ],
+        "waiting_before_answer": 44
+    },
+    "call53": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call54": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call55": {
+        "customer_waiting_time": 181,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 181
+    },
+    "call56": {
+        "customer_waiting_time": 630,
+        "is_answered": true,
+        "call_duration": [
+            615
+        ],
+        "waiting_before_answer": 15
+    },
+    "call57": {
+        "customer_waiting_time": 48,
+        "is_answered": true,
+        "call_duration": [
+            26
+        ],
+        "waiting_before_answer": 22
+    },
+    "call58": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call59": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call60": {
+        "customer_waiting_time": 363,
+        "is_answered": true,
+        "call_duration": [
+            0,
+            0,
+            212
+        ],
+        "waiting_before_answer": 151
+    },
+    "call61": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call62": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call63": {
+        "customer_waiting_time": 47,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 47
+    },
+    "call64": {
+        "customer_waiting_time": 230,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call65": {
+        "customer_waiting_time": 428,
+        "is_answered": true,
+        "call_duration": [
+            0,
+            350
+        ],
+        "waiting_before_answer": 78
+    },
+    "call66": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call67": {
+        "customer_waiting_time": 162,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call68": {
+        "customer_waiting_time": 239,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call69": {
+        "customer_waiting_time": 290,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call70": {
+        "customer_waiting_time": 77,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call71": {
+        "customer_waiting_time": "empty",
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call72": {
+        "customer_waiting_time": "empty",
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call73": {
+        "customer_waiting_time": "empty",
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call74": {
+        "customer_waiting_time": "empty",
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call75": {
+        "customer_waiting_time": 43,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call76": {
+        "customer_waiting_time": "empty",
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call77": {
+        "customer_waiting_time": 347,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call78": {
+        "customer_waiting_time": 54,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call79": {
+        "customer_waiting_time": 73,
+        "is_answered": true,
+        "call_duration": [
+            38
+        ],
+        "waiting_before_answer": 35
+    },
+    "call80": {
+        "customer_waiting_time": 4,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call81": {
+        "customer_waiting_time": 180,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call82": {
+        "customer_waiting_time": 3,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call83": {
+        "customer_waiting_time": 10,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call84": {
+        "customer_waiting_time": 12,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call85": {
+        "customer_waiting_time": 67,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call86": {
+        "customer_waiting_time": 128,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0
+        ],
+        "waiting_before_answer": 128
+    },
+    "call87": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call88": {
+        "customer_waiting_time": 122,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call89": {
+        "customer_waiting_time": 66,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call90": {
+        "customer_waiting_time": 287,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call91": {
+        "customer_waiting_time": 210,
+        "is_answered": true,
+        "call_duration": [
+            0,
+            97
+        ],
+        "waiting_before_answer": 113
+    },
+    "call92": {
+        "customer_waiting_time": 180,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call93": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call94": {
+        "customer_waiting_time": 269,
+        "is_answered": true,
+        "call_duration": [
+            232
+        ],
+        "waiting_before_answer": 37
+    },
+    "call95": {
+        "customer_waiting_time": 24,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call96": {
+        "customer_waiting_time": 126,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call97": {
+        "customer_waiting_time": 129,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call98": {
+        "customer_waiting_time": 39,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call99": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call100": {
+        "customer_waiting_time": 357,
+        "is_answered": true,
+        "call_duration": [
+            337
+        ],
+        "waiting_before_answer": 20
+    },
+    "call101": {
+        "customer_waiting_time": 88,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call102": {
+        "customer_waiting_time": 472,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call103": {
+        "customer_waiting_time": 9,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call104": {
+        "customer_waiting_time": 4,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call105": {
+        "customer_waiting_time": 4,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call106": {
+        "customer_waiting_time": 420,
+        "is_answered": true,
+        "call_duration": [
+            389
+        ],
+        "waiting_before_answer": 31
+    },
+    "call107": {
+        "customer_waiting_time": 0,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call108": {
+        "customer_waiting_time": 46,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call109": {
+        "customer_waiting_time": 141,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call110": {
+        "customer_waiting_time": 163,
+        "is_answered": true,
+        "call_duration": [
+            147
+        ],
+        "waiting_before_answer": 16
+    },
+    "call111": {
+        "customer_waiting_time": 54,
+        "is_answered": true,
+        "call_duration": [
+            41
+        ],
+        "waiting_before_answer": 13
+    },
+    "call112": {
+        "customer_waiting_time": 14,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call113": {
+        "customer_waiting_time": 11,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call114": {
+        "customer_waiting_time": "empty",
+        "is_answered": true,
+        "call_duration": [
+            0,
+            68,
+            0,
+            80
+        ],
+        "waiting_before_answer": "empty"
+    },
+    "call115": {
+        "customer_waiting_time": 489,
+        "is_answered": true,
+        "call_duration": [
+            0,
+            0,
+            348
+        ],
+        "waiting_before_answer": 141
+    },
+    "call116": {
+        "customer_waiting_time": 733,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call117": {
+        "customer_waiting_time": 7,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call118": {
+        "customer_waiting_time": 7,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 7
+    },
+    "call119": {
+        "customer_waiting_time": 36,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call120": {
+        "customer_waiting_time": 4,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call121": {
+        "customer_waiting_time": 288,
+        "is_answered": true,
+        "call_duration": [
+            264
+        ],
+        "waiting_before_answer": 24
+    },
+    "call122": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call123": {
+        "customer_waiting_time": 35,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 35
+    },
+    "call124": {
+        "customer_waiting_time": 22,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 22
+    },
+    "call125": {
+        "customer_waiting_time": 73,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0
+        ],
+        "waiting_before_answer": 73
+    },
+    "call126": {
+        "customer_waiting_time": 30,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 30
+    },
+    "call127": {
+        "customer_waiting_time": 4,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call128": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call129": {
+        "customer_waiting_time": 9,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call130": {
+        "customer_waiting_time": 8,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 8
+    },
+    "call131": {
+        "customer_waiting_time": 16,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 16
+    },
+    "call132": {
+        "customer_waiting_time": 6,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 6
+    },
+    "call133": {
+        "customer_waiting_time": 3,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call134": {
+        "customer_waiting_time": 6,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 6
+    },
+    "call135": {
+        "customer_waiting_time": 161,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call136": {
+        "customer_waiting_time": 180,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call137": {
+        "customer_waiting_time": 149,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call138": {
+        "customer_waiting_time": 36,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call139": {
+        "customer_waiting_time": 180,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call140": {
+        "customer_waiting_time": 484,
+        "is_answered": true,
+        "call_duration": [
+            0,
+            367
+        ],
+        "waiting_before_answer": 117
+    },
+    "call141": {
+        "customer_waiting_time": "empty",
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call142": {
+        "customer_waiting_time": "empty",
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call143": {
+        "customer_waiting_time": 65,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call144": {
+        "customer_waiting_time": 195,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call145": {
+        "customer_waiting_time": "empty",
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call146": {
+        "customer_waiting_time": "empty",
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call147": {
+        "customer_waiting_time": "empty",
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": "empty"
+    },
+    "call148": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call149": {
+        "customer_waiting_time": 309,
+        "is_answered": true,
+        "call_duration": [
+            234
+        ],
+        "waiting_before_answer": 75
+    },
+    "call150": {
+        "customer_waiting_time": 34,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call151": {
+        "customer_waiting_time": 115,
+        "is_answered": true,
+        "call_duration": [
+            77
+        ],
+        "waiting_before_answer": 38
+    },
+    "call152": {
+        "customer_waiting_time": 207,
+        "is_answered": true,
+        "call_duration": [
+            0,
+            130
+        ],
+        "waiting_before_answer": 77
+    },
+    "call153": {
+        "customer_waiting_time": 0,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call154": {
+        "customer_waiting_time": 396,
+        "is_answered": true,
+        "call_duration": [
+            389
+        ],
+        "waiting_before_answer": 7
+    },
+    "call155": {
+        "customer_waiting_time": 1262,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call156": {
+        "customer_waiting_time": 57,
+        "is_answered": true,
+        "call_duration": [
+            23
+        ],
+        "waiting_before_answer": 34
+    },
+    "call157": {
+        "customer_waiting_time": 171,
+        "is_answered": true,
+        "call_duration": [
+            102
+        ],
+        "waiting_before_answer": 69
+    },
+    "call158": {
+        "customer_waiting_time": 104,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 104
+    },
+    "call159": {
+        "customer_waiting_time": 165,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call160": {
+        "customer_waiting_time": 53,
+        "is_answered": true,
+        "call_duration": [
+            42
+        ],
+        "waiting_before_answer": 11
+    },
+    "call161": {
+        "customer_waiting_time": 6,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call162": {
+        "customer_waiting_time": 41,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call163": {
+        "customer_waiting_time": 88,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call164": {
+        "customer_waiting_time": 149,
+        "is_answered": true,
+        "call_duration": [
+            138
+        ],
+        "waiting_before_answer": 11
+    },
+    "call165": {
+        "customer_waiting_time": 12,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call166": {
+        "customer_waiting_time": 10,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call167": {
+        "customer_waiting_time": 61,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call168": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call169": {
+        "customer_waiting_time": 526,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call170": {
+        "customer_waiting_time": 292,
+        "is_answered": true,
+        "call_duration": [
+            243
+        ],
+        "waiting_before_answer": 49
+    },
+    "call171": {
+        "customer_waiting_time": 229,
+        "is_answered": true,
+        "call_duration": [
+            80
+        ],
+        "waiting_before_answer": 149
+    },
+    "call172": {
+        "customer_waiting_time": 14,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 14
+    },
+    "call173": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call174": {
+        "customer_waiting_time": 7,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call175": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call176": {
+        "customer_waiting_time": 364,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call177": {
+        "customer_waiting_time": "empty",
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call178": {
+        "customer_waiting_time": 84,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0
+        ],
+        "waiting_before_answer": 84
+    },
+    "call179": {
+        "customer_waiting_time": 8,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call180": {
+        "customer_waiting_time": 4,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call181": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call182": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call183": {
+        "customer_waiting_time": 141,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 141
+    },
+    "call184": {
+        "customer_waiting_time": 88,
+        "is_answered": true,
+        "call_duration": [
+            45
+        ],
+        "waiting_before_answer": 43
+    },
+    "call185": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call186": {
+        "customer_waiting_time": 347,
+        "is_answered": true,
+        "call_duration": [
+            0,
+            0,
+            182
+        ],
+        "waiting_before_answer": 165
+    },
+    "call187": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call188": {
+        "customer_waiting_time": 304,
+        "is_answered": true,
+        "call_duration": [
+            253
+        ],
+        "waiting_before_answer": 51
+    },
+    "call189": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call190": {
+        "customer_waiting_time": 245,
+        "is_answered": true,
+        "call_duration": [
+            234
+        ],
+        "waiting_before_answer": 11
+    },
+    "call191": {
+        "customer_waiting_time": 67,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 67
+    },
+    "call192": {
+        "customer_waiting_time": 84,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call193": {
+        "customer_waiting_time": 1,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call194": {
+        "customer_waiting_time": 8,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call195": {
+        "customer_waiting_time": 556,
+        "is_answered": true,
+        "call_duration": [
+            514
+        ],
+        "waiting_before_answer": 42
+    },
+    "call196": {
+        "customer_waiting_time": 252,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 252
+    },
+    "call197": {
+        "customer_waiting_time": 741,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call198": {
+        "customer_waiting_time": 10,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call199": {
+        "customer_waiting_time": 194,
+        "is_answered": true,
+        "call_duration": [
+            153
+        ],
+        "waiting_before_answer": 41
+    },
+    "call200": {
+        "customer_waiting_time": 180,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call201": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call202": {
+        "customer_waiting_time": 9,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call203": {
+        "customer_waiting_time": 4,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call204": {
+        "customer_waiting_time": 159,
+        "is_answered": true,
+        "call_duration": [
+            103
+        ],
+        "waiting_before_answer": 56
+    },
+    "call205": {
+        "customer_waiting_time": 180,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call206": {
+        "customer_waiting_time": 181,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 181
+    },
+    "call207": {
+        "customer_waiting_time": 262,
+        "is_answered": true,
+        "call_duration": [
+            0,
+            189
+        ],
+        "waiting_before_answer": 73
+    },
+    "call208": {
+        "customer_waiting_time": 69,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call209": {
+        "customer_waiting_time": 344,
+        "is_answered": true,
+        "call_duration": [
+            311
+        ],
+        "waiting_before_answer": 33
+    },
+    "call210": {
+        "customer_waiting_time": 155,
+        "is_answered": true,
+        "call_duration": [
+            143
+        ],
+        "waiting_before_answer": 12
+    },
+    "call211": {
+        "customer_waiting_time": 199,
+        "is_answered": true,
+        "call_duration": [
+            141
+        ],
+        "waiting_before_answer": 58
+    },
+    "call212": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call213": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call214": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call215": {
+        "customer_waiting_time": 121,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0
+        ],
+        "waiting_before_answer": 121
+    },
+    "call216": {
+        "customer_waiting_time": 7,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call217": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call218": {
+        "customer_waiting_time": 79,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call219": {
+        "customer_waiting_time": 3,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call220": {
+        "customer_waiting_time": 108,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call221": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call222": {
+        "customer_waiting_time": 1090,
+        "is_answered": true,
+        "call_duration": [
+            1054
+        ],
+        "waiting_before_answer": 36
+    },
+    "call223": {
+        "customer_waiting_time": 180,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call224": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call225": {
+        "customer_waiting_time": 186,
+        "is_answered": true,
+        "call_duration": [
+            145
+        ],
+        "waiting_before_answer": 41
+    },
+    "call226": {
+        "customer_waiting_time": 131,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0
+        ],
+        "waiting_before_answer": 131
+    },
+    "call227": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call228": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call229": {
+        "customer_waiting_time": 8,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call230": {
+        "customer_waiting_time": 2,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call231": {
+        "customer_waiting_time": 589,
+        "is_answered": true,
+        "call_duration": [
+            574
+        ],
+        "waiting_before_answer": 15
+    },
+    "call232": {
+        "customer_waiting_time": "empty",
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call233": {
+        "customer_waiting_time": "empty",
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call234": {
+        "customer_waiting_time": 394,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call235": {
+        "customer_waiting_time": 2021,
+        "is_answered": true,
+        "call_duration": [
+            2002
+        ],
+        "waiting_before_answer": 19
+    },
+    "call236": {
+        "customer_waiting_time": 272,
+        "is_answered": true,
+        "call_duration": [
+            258
+        ],
+        "waiting_before_answer": 14
+    },
+    "call237": {
+        "customer_waiting_time": 165,
+        "is_answered": true,
+        "call_duration": [
+            139
+        ],
+        "waiting_before_answer": 26
+    },
+    "call238": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call239": {
+        "customer_waiting_time": 70,
+        "is_answered": true,
+        "call_duration": [
+            39
+        ],
+        "waiting_before_answer": 31
+    },
+    "call240": {
+        "customer_waiting_time": 329,
+        "is_answered": true,
+        "call_duration": [
+            290
+        ],
+        "waiting_before_answer": 39
+    },
+    "call241": {
+        "customer_waiting_time": 4,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 4
+    },
+    "call242": {
+        "customer_waiting_time": 3,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 3
+    },
+    "call243": {
+        "customer_waiting_time": 3,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 3
+    },
+    "call244": {
+        "customer_waiting_time": 3,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 3
+    },
+    "call245": {
+        "customer_waiting_time": 233,
+        "is_answered": true,
+        "call_duration": [
+            196
+        ],
+        "waiting_before_answer": 37
+    },
+    "call246": {
+        "customer_waiting_time": 312,
+        "is_answered": true,
+        "call_duration": [
+            0,
+            224
+        ],
+        "waiting_before_answer": 88
+    },
+    "call247": {
+        "customer_waiting_time": 199,
+        "is_answered": true,
+        "call_duration": [
+            165
+        ],
+        "waiting_before_answer": 34
+    },
+    "call248": {
+        "customer_waiting_time": 203,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 203
+    },
+    "call249": {
+        "customer_waiting_time": 77,
+        "is_answered": true,
+        "call_duration": [
+            38
+        ],
+        "waiting_before_answer": 39
+    },
+    "call250": {
+        "customer_waiting_time": 110,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call251": {
+        "customer_waiting_time": 267,
+        "is_answered": true,
+        "call_duration": [
+            251
+        ],
+        "waiting_before_answer": 16
+    },
+    "call252": {
+        "customer_waiting_time": 149,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call253": {
+        "customer_waiting_time": 320,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call254": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call255": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call256": {
+        "customer_waiting_time": 366,
+        "is_answered": true,
+        "call_duration": [
+            0,
+            278
+        ],
+        "waiting_before_answer": 88
+    },
+    "call257": {
+        "customer_waiting_time": 544,
+        "is_answered": true,
+        "call_duration": [
+            540
+        ],
+        "waiting_before_answer": 4
+    },
+    "call258": {
+        "customer_waiting_time": 181,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 181
+    },
+    "call259": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call260": {
+        "customer_waiting_time": 179,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 179
+    },
+    "call261": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call262": {
+        "customer_waiting_time": 74,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call263": {
+        "customer_waiting_time": 729,
+        "is_answered": true,
+        "call_duration": [
+            726
+        ],
+        "waiting_before_answer": 3
+    },
+    "call264": {
+        "customer_waiting_time": 175,
+        "is_answered": true,
+        "call_duration": [
+            170
+        ],
+        "waiting_before_answer": 5
+    },
+    "call265": {
+        "customer_waiting_time": 103,
+        "is_answered": true,
+        "call_duration": [
+            50
+        ],
+        "waiting_before_answer": 53
+    },
+    "call266": {
+        "customer_waiting_time": 391,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call267": {
+        "customer_waiting_time": 86,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call268": {
+        "customer_waiting_time": 7,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call269": {
+        "customer_waiting_time": 3,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call270": {
+        "customer_waiting_time": 148,
+        "is_answered": true,
+        "call_duration": [
+            120
+        ],
+        "waiting_before_answer": 28
+    },
+    "call271": {
+        "customer_waiting_time": 92,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0
+        ],
+        "waiting_before_answer": 92
+    },
+    "call272": {
+        "customer_waiting_time": 108,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0
+        ],
+        "waiting_before_answer": 108
+    },
+    "call273": {
+        "customer_waiting_time": 129,
+        "is_answered": true,
+        "call_duration": [
+            84
+        ],
+        "waiting_before_answer": 45
+    },
+    "call274": {
+        "customer_waiting_time": 95,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0
+        ],
+        "waiting_before_answer": 95
+    },
+    "call275": {
+        "customer_waiting_time": 146,
+        "is_answered": true,
+        "call_duration": [
+            124
+        ],
+        "waiting_before_answer": 22
+    },
+    "call276": {
+        "customer_waiting_time": 4,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call277": {
+        "customer_waiting_time": 478,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call278": {
+        "customer_waiting_time": 325,
+        "is_answered": true,
+        "call_duration": [
+            315
+        ],
+        "waiting_before_answer": 10
+    },
+    "call279": {
+        "customer_waiting_time": 214,
+        "is_answered": true,
+        "call_duration": [
+            209
+        ],
+        "waiting_before_answer": 5
+    },
+    "call280": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call281": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call282": {
+        "customer_waiting_time": 319,
+        "is_answered": true,
+        "call_duration": [
+            268
+        ],
+        "waiting_before_answer": 51
+    },
+    "call283": {
+        "customer_waiting_time": 552,
+        "is_answered": true,
+        "call_duration": [
+            520
+        ],
+        "waiting_before_answer": 32
+    },
+    "call284": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call285": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call286": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call287": {
+        "customer_waiting_time": 0,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call288": {
+        "customer_waiting_time": 7,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call289": {
+        "customer_waiting_time": 5,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call290": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call291": {
+        "customer_waiting_time": 618,
+        "is_answered": true,
+        "call_duration": [
+            603
+        ],
+        "waiting_before_answer": 15
+    },
+    "call292": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call293": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call294": {
+        "customer_waiting_time": 3,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call295": {
+        "customer_waiting_time": 240,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call296": {
+        "customer_waiting_time": 30,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 30
+    },
+    "call297": {
+        "customer_waiting_time": 386,
+        "is_answered": true,
+        "call_duration": [
+            375
+        ],
+        "waiting_before_answer": 11
+    },
+    "call298": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call299": {
+        "customer_waiting_time": 109,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0
+        ],
+        "waiting_before_answer": 109
+    },
+    "call300": {
+        "customer_waiting_time": 311,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 311
+    },
+    "call301": {
+        "customer_waiting_time": 337,
+        "is_answered": true,
+        "call_duration": [
+            312
+        ],
+        "waiting_before_answer": 25
+    },
+    "call302": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call303": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call304": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call305": {
+        "customer_waiting_time": 517,
+        "is_answered": true,
+        "call_duration": [
+            0,
+            419
+        ],
+        "waiting_before_answer": 98
+    },
+    "call306": {
+        "customer_waiting_time": 211,
+        "is_answered": true,
+        "call_duration": [
+            0,
+            141
+        ],
+        "waiting_before_answer": 70
+    },
+    "call307": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call308": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call309": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call310": {
+        "customer_waiting_time": 145,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call311": {
+        "customer_waiting_time": 257,
+        "is_answered": true,
+        "call_duration": [
+            222
+        ],
+        "waiting_before_answer": 35
+    },
+    "call312": {
+        "customer_waiting_time": 646,
+        "is_answered": true,
+        "call_duration": [
+            641
+        ],
+        "waiting_before_answer": 5
+    },
+    "call313": {
+        "customer_waiting_time": 138,
+        "is_answered": true,
+        "call_duration": [
+            120
+        ],
+        "waiting_before_answer": 18
+    },
+    "call314": {
+        "customer_waiting_time": 253,
+        "is_answered": true,
+        "call_duration": [
+            217
+        ],
+        "waiting_before_answer": 36
+    },
+    "call315": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call316": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call317": {
+        "customer_waiting_time": 147,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 147
+    },
+    "call318": {
+        "customer_waiting_time": 311,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call319": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call320": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call321": {
+        "customer_waiting_time": 336,
+        "is_answered": true,
+        "call_duration": [
+            324
+        ],
+        "waiting_before_answer": 12
+    },
+    "call322": {
+        "customer_waiting_time": 103,
+        "is_answered": true,
+        "call_duration": [
+            97
+        ],
+        "waiting_before_answer": 6
+    },
+    "call323": {
+        "customer_waiting_time": "empty",
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call324": {
+        "customer_waiting_time": 540,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 540
+    },
+    "call325": {
+        "customer_waiting_time": 135,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call326": {
+        "customer_waiting_time": 200,
+        "is_answered": true,
+        "call_duration": [
+            0,
+            105
+        ],
+        "waiting_before_answer": 95
+    },
+    "call327": {
+        "customer_waiting_time": 58,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call328": {
+        "customer_waiting_time": 56,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call329": {
+        "customer_waiting_time": 234,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call330": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call331": {
+        "customer_waiting_time": 647,
+        "is_answered": true,
+        "call_duration": [
+            0,
+            0,
+            502
+        ],
+        "waiting_before_answer": 145
+    },
+    "call332": {
+        "customer_waiting_time": 604,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call333": {
+        "customer_waiting_time": 299,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call334": {
+        "customer_waiting_time": 115,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call335": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call336": {
+        "customer_waiting_time": 291,
+        "is_answered": true,
+        "call_duration": [
+            247
+        ],
+        "waiting_before_answer": 44
+    },
+    "call337": {
+        "customer_waiting_time": 408,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call338": {
+        "customer_waiting_time": 34,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call339": {
+        "customer_waiting_time": 341,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call340": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call341": {
+        "customer_waiting_time": 74,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call342": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call343": {
+        "customer_waiting_time": 344,
+        "is_answered": true,
+        "call_duration": [
+            0,
+            267
+        ],
+        "waiting_before_answer": 77
+    },
+    "call344": {
+        "customer_waiting_time": 486,
+        "is_answered": true,
+        "call_duration": [
+            455
+        ],
+        "waiting_before_answer": 31
+    },
+    "call345": {
+        "customer_waiting_time": 747,
+        "is_answered": true,
+        "call_duration": [
+            0,
+            651
+        ],
+        "waiting_before_answer": 96
+    },
+    "call346": {
+        "customer_waiting_time": 3,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call347": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call348": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call349": {
+        "customer_waiting_time": 638,
+        "is_answered": true,
+        "call_duration": [
+            614
+        ],
+        "waiting_before_answer": 24
+    },
+    "call350": {
+        "customer_waiting_time": "empty",
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call351": {
+        "customer_waiting_time": 607,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call352": {
+        "customer_waiting_time": 180,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call353": {
+        "customer_waiting_time": 228,
+        "is_answered": true,
+        "call_duration": [
+            0,
+            114
+        ],
+        "waiting_before_answer": 114
+    },
+    "call354": {
+        "customer_waiting_time": "empty",
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": "empty"
+    },
+    "call355": {
+        "customer_waiting_time": 176,
+        "is_answered": false,
+        "call_duration": [
+            190,
+            0,
+            0,
+            0,
+            235,
+            0,
+            0
+        ],
+        "waiting_before_answer": -59
+    },
+    "call356": {
+        "customer_waiting_time": 119,
+        "is_answered": true,
+        "call_duration": [
+            196
+        ],
+        "waiting_before_answer": -77
+    },
+    "call357": {
+        "customer_waiting_time": 7,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call358": {
+        "customer_waiting_time": 73,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call359": {
+        "customer_waiting_time": 387,
+        "is_answered": true,
+        "call_duration": [
+            0,
+            278
+        ],
+        "waiting_before_answer": 109
+    },
+    "call360": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call361": {
+        "customer_waiting_time": 104,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0
+        ],
+        "waiting_before_answer": 104
+    },
+    "call362": {
+        "customer_waiting_time": 113,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call363": {
+        "customer_waiting_time": 7,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call364": {
+        "customer_waiting_time": 228,
+        "is_answered": true,
+        "call_duration": [
+            205
+        ],
+        "waiting_before_answer": 23
+    },
+    "call365": {
+        "customer_waiting_time": 23,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 23
+    },
+    "call366": {
+        "customer_waiting_time": 26,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call367": {
+        "customer_waiting_time": 777,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call368": {
+        "customer_waiting_time": 919,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call369": {
+        "customer_waiting_time": 129,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0
+        ],
+        "waiting_before_answer": 129
+    },
+    "call370": {
+        "customer_waiting_time": 180,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call371": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call372": {
+        "customer_waiting_time": 29,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call373": {
+        "customer_waiting_time": 5,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call374": {
+        "customer_waiting_time": 255,
+        "is_answered": true,
+        "call_duration": [
+            211
+        ],
+        "waiting_before_answer": 44
+    },
+    "call375": {
+        "customer_waiting_time": 252,
+        "is_answered": true,
+        "call_duration": [
+            235
+        ],
+        "waiting_before_answer": 17
+    },
+    "call376": {
+        "customer_waiting_time": 66,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call377": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call378": {
+        "customer_waiting_time": 176,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call379": {
+        "customer_waiting_time": "empty",
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call380": {
+        "customer_waiting_time": "empty",
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call381": {
+        "customer_waiting_time": "empty",
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call382": {
+        "customer_waiting_time": 50,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call383": {
+        "customer_waiting_time": 320,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call384": {
+        "customer_waiting_time": 199,
+        "is_answered": true,
+        "call_duration": [
+            158
+        ],
+        "waiting_before_answer": 41
+    },
+    "call385": {
+        "customer_waiting_time": 425,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call386": {
+        "customer_waiting_time": 106,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0
+        ],
+        "waiting_before_answer": 106
+    },
+    "call387": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call388": {
+        "customer_waiting_time": 178,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call389": {
+        "customer_waiting_time": 84,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0
+        ],
+        "waiting_before_answer": 84
+    },
+    "call390": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call391": {
+        "customer_waiting_time": 69,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call392": {
+        "customer_waiting_time": 1235,
+        "is_answered": true,
+        "call_duration": [
+            1231
+        ],
+        "waiting_before_answer": 4
+    },
+    "call393": {
+        "customer_waiting_time": 490,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call394": {
+        "customer_waiting_time": 47,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call395": {
+        "customer_waiting_time": 332,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call396": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call397": {
+        "customer_waiting_time": 215,
+        "is_answered": true,
+        "call_duration": [
+            0,
+            126
+        ],
+        "waiting_before_answer": 89
+    },
+    "call398": {
+        "customer_waiting_time": 42,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 42
+    },
+    "call399": {
+        "customer_waiting_time": 394,
+        "is_answered": true,
+        "call_duration": [
+            0,
+            323
+        ],
+        "waiting_before_answer": 71
+    },
+    "call400": {
+        "customer_waiting_time": 102,
+        "is_answered": true,
+        "call_duration": [
+            0,
+            30
+        ],
+        "waiting_before_answer": 72
+    },
+    "call401": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call402": {
+        "customer_waiting_time": 123,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call403": {
+        "customer_waiting_time": 170,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 170
+    },
+    "call404": {
+        "customer_waiting_time": 743,
+        "is_answered": true,
+        "call_duration": [
+            734
+        ],
+        "waiting_before_answer": 9
+    },
+    "call405": {
+        "customer_waiting_time": 97,
+        "is_answered": true,
+        "call_duration": [
+            92
+        ],
+        "waiting_before_answer": 5
+    },
+    "call406": {
+        "customer_waiting_time": 531,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call407": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call408": {
+        "customer_waiting_time": 70,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0
+        ],
+        "waiting_before_answer": 70
+    },
+    "call409": {
+        "customer_waiting_time": 275,
+        "is_answered": true,
+        "call_duration": [
+            0,
+            197
+        ],
+        "waiting_before_answer": 78
+    },
+    "call410": {
+        "customer_waiting_time": 200,
+        "is_answered": true,
+        "call_duration": [
+            0,
+            123
+        ],
+        "waiting_before_answer": 77
+    },
+    "call411": {
+        "customer_waiting_time": 154,
+        "is_answered": true,
+        "call_duration": [
+            0,
+            82
+        ],
+        "waiting_before_answer": 72
+    },
+    "call412": {
+        "customer_waiting_time": 627,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call413": {
+        "customer_waiting_time": 658,
+        "is_answered": true,
+        "call_duration": [
+            0,
+            572
+        ],
+        "waiting_before_answer": 86
+    },
+    "call414": {
+        "customer_waiting_time": 18,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call415": {
+        "customer_waiting_time": 180,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call416": {
+        "customer_waiting_time": 80,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call417": {
+        "customer_waiting_time": "empty",
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call418": {
+        "customer_waiting_time": "empty",
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call419": {
+        "customer_waiting_time": "empty",
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call420": {
+        "customer_waiting_time": 3,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call421": {
+        "customer_waiting_time": "empty",
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call422": {
+        "customer_waiting_time": "empty",
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call423": {
+        "customer_waiting_time": 92,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call424": {
+        "customer_waiting_time": 223,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call425": {
+        "customer_waiting_time": 223,
+        "is_answered": true,
+        "call_duration": [
+            188
+        ],
+        "waiting_before_answer": 35
+    },
+    "call426": {
+        "customer_waiting_time": 131,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0
+        ],
+        "waiting_before_answer": 131
+    },
+    "call427": {
+        "customer_waiting_time": 87,
+        "is_answered": true,
+        "call_duration": [
+            61
+        ],
+        "waiting_before_answer": 26
+    },
+    "call428": {
+        "customer_waiting_time": 160,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 160
+    },
+    "call429": {
+        "customer_waiting_time": 90,
+        "is_answered": true,
+        "call_duration": [
+            59
+        ],
+        "waiting_before_answer": 31
+    },
+    "call430": {
+        "customer_waiting_time": "empty",
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call431": {
+        "customer_waiting_time": 369,
+        "is_answered": true,
+        "call_duration": [
+            0,
+            296
+        ],
+        "waiting_before_answer": 73
+    },
+    "call432": {
+        "customer_waiting_time": 180,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call433": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call434": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call435": {
+        "customer_waiting_time": 70,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0
+        ],
+        "waiting_before_answer": 70
+    },
+    "call436": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call437": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call438": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call439": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call440": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call441": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call442": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call443": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call444": {
+        "customer_waiting_time": 191,
+        "is_answered": true,
+        "call_duration": [
+            172
+        ],
+        "waiting_before_answer": 19
+    },
+    "call445": {
+        "customer_waiting_time": 31,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 31
+    },
+    "call446": {
+        "customer_waiting_time": 353,
+        "is_answered": true,
+        "call_duration": [
+            333
+        ],
+        "waiting_before_answer": 20
+    },
+    "call447": {
+        "customer_waiting_time": 166,
+        "is_answered": true,
+        "call_duration": [
+            111
+        ],
+        "waiting_before_answer": 55
+    },
+    "call448": {
+        "customer_waiting_time": 532,
+        "is_answered": true,
+        "call_duration": [
+            0,
+            442
+        ],
+        "waiting_before_answer": 90
+    },
+    "call449": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call450": {
+        "customer_waiting_time": 96,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0
+        ],
+        "waiting_before_answer": 96
+    },
+    "call451": {
+        "customer_waiting_time": 87,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0
+        ],
+        "waiting_before_answer": 87
+    },
+    "call452": {
+        "customer_waiting_time": 311,
+        "is_answered": true,
+        "call_duration": [
+            200
+        ],
+        "waiting_before_answer": 111
+    },
+    "call453": {
+        "customer_waiting_time": 212,
+        "is_answered": true,
+        "call_duration": [
+            172
+        ],
+        "waiting_before_answer": 40
+    },
+    "call454": {
+        "customer_waiting_time": 331,
+        "is_answered": true,
+        "call_duration": [
+            0,
+            0,
+            194
+        ],
+        "waiting_before_answer": 137
+    },
+    "call455": {
+        "customer_waiting_time": 626,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call456": {
+        "customer_waiting_time": 468,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call457": {
+        "customer_waiting_time": 8,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call458": {
+        "customer_waiting_time": 6,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call459": {
+        "customer_waiting_time": 4,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call460": {
+        "customer_waiting_time": 8,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call461": {
+        "customer_waiting_time": 4,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call462": {
+        "customer_waiting_time": 8,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call463": {
+        "customer_waiting_time": 79,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0
+        ],
+        "waiting_before_answer": 79
+    },
+    "call464": {
+        "customer_waiting_time": 0,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call465": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call466": {
+        "customer_waiting_time": 7,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call467": {
+        "customer_waiting_time": 279,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call468": {
+        "customer_waiting_time": 282,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call469": {
+        "customer_waiting_time": 274,
+        "is_answered": true,
+        "call_duration": [
+            0,
+            151
+        ],
+        "waiting_before_answer": 123
+    },
+    "call470": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call471": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call472": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call473": {
+        "customer_waiting_time": 15,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call474": {
+        "customer_waiting_time": 0,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call475": {
+        "customer_waiting_time": 181,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 181
+    },
+    "call476": {
+        "customer_waiting_time": 0,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call477": {
+        "customer_waiting_time": 423,
+        "is_answered": true,
+        "call_duration": [
+            0,
+            353
+        ],
+        "waiting_before_answer": 70
+    },
+    "call478": {
+        "customer_waiting_time": 278,
+        "is_answered": true,
+        "call_duration": [
+            250
+        ],
+        "waiting_before_answer": 28
+    },
+    "call479": {
+        "customer_waiting_time": 271,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call480": {
+        "customer_waiting_time": 140,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call481": {
+        "customer_waiting_time": 8,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call482": {
+        "customer_waiting_time": 182,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call483": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call484": {
+        "customer_waiting_time": 112,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 112
+    },
+    "call485": {
+        "customer_waiting_time": 186,
+        "is_answered": true,
+        "call_duration": [
+            177
+        ],
+        "waiting_before_answer": 9
+    },
+    "call486": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call487": {
+        "customer_waiting_time": 281,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call488": {
+        "customer_waiting_time": 8,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call489": {
+        "customer_waiting_time": 4,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call490": {
+        "customer_waiting_time": 267,
+        "is_answered": true,
+        "call_duration": [
+            216
+        ],
+        "waiting_before_answer": 51
+    },
+    "call491": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call492": {
+        "customer_waiting_time": 47,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call493": {
+        "customer_waiting_time": 51,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call494": {
+        "customer_waiting_time": 154,
+        "is_answered": true,
+        "call_duration": [
+            127
+        ],
+        "waiting_before_answer": 27
+    },
+    "call495": {
+        "customer_waiting_time": 514,
+        "is_answered": true,
+        "call_duration": [
+            0,
+            442
+        ],
+        "waiting_before_answer": 72
+    },
+    "call496": {
+        "customer_waiting_time": "empty",
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call497": {
+        "customer_waiting_time": "empty",
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call498": {
+        "customer_waiting_time": 40,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call499": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call500": {
+        "customer_waiting_time": 28,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 28
+    },
+    "call501": {
+        "customer_waiting_time": 4,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call502": {
+        "customer_waiting_time": 240,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call503": {
+        "customer_waiting_time": 5,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call504": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call505": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call506": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call507": {
+        "customer_waiting_time": 798,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call508": {
+        "customer_waiting_time": 3,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call509": {
+        "customer_waiting_time": 156,
+        "is_answered": true,
+        "call_duration": [
+            141
+        ],
+        "waiting_before_answer": 15
+    },
+    "call510": {
+        "customer_waiting_time": 89,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 89
+    },
+    "call511": {
+        "customer_waiting_time": 400,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call512": {
+        "customer_waiting_time": 10,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call513": {
+        "customer_waiting_time": 223,
+        "is_answered": true,
+        "call_duration": [
+            0,
+            151
+        ],
+        "waiting_before_answer": 72
+    },
+    "call514": {
+        "customer_waiting_time": 334,
+        "is_answered": true,
+        "call_duration": [
+            309
+        ],
+        "waiting_before_answer": 25
+    },
+    "call515": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call516": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call517": {
+        "customer_waiting_time": 935,
+        "is_answered": true,
+        "call_duration": [
+            0,
+            861
+        ],
+        "waiting_before_answer": 74
+    },
+    "call518": {
+        "customer_waiting_time": 225,
+        "is_answered": true,
+        "call_duration": [
+            181
+        ],
+        "waiting_before_answer": 44
+    },
+    "call519": {
+        "customer_waiting_time": 153,
+        "is_answered": true,
+        "call_duration": [
+            137
+        ],
+        "waiting_before_answer": 16
+    },
+    "call520": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call521": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call522": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call523": {
+        "customer_waiting_time": 36,
+        "is_answered": false,
+        "call_duration": [
+            0
+        ],
+        "waiting_before_answer": 36
+    },
+    "call524": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call525": {
+        "customer_waiting_time": 12,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call526": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call527": {
+        "customer_waiting_time": 5,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call528": {
+        "customer_waiting_time": 64,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call529": {
+        "customer_waiting_time": 6,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call530": {
+        "customer_waiting_time": 167,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 167
+    },
+    "call531": {
+        "customer_waiting_time": 3,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call532": {
+        "customer_waiting_time": 161,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call533": {
+        "customer_waiting_time": 119,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call534": {
+        "customer_waiting_time": 344,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call535": {
+        "customer_waiting_time": "empty",
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call536": {
+        "customer_waiting_time": 8,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call537": {
+        "customer_waiting_time": 5,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call538": {
+        "customer_waiting_time": 2,
+        "is_answered": "not reached",
+        "call_duration": "empty",
+        "waiting_before_answer": "empty"
+    },
+    "call539": {
+        "customer_waiting_time": 194,
+        "is_answered": true,
+        "call_duration": [
+            147
+        ],
+        "waiting_before_answer": 47
+    },
+    "call540": {
+        "customer_waiting_time": 180,
+        "is_answered": false,
+        "call_duration": [
+            0,
+            0,
+            0
+        ],
+        "waiting_before_answer": 180
+    },
+    "call541": {
+        "customer_waiting_time": 239,
+        "is_answered": true,
+        "call_duration": [
+            199
+        ],
+        "waiting_before_answer": 40
+    }
+}
