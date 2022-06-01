@@ -2,6 +2,7 @@ import json
 import ovh
 import datetime as dt
 import requests
+from tqdm import tqdm
 
 now = dt.datetime.now()
 
@@ -29,7 +30,6 @@ queueId = [
 ]
 
 date = [
-    "2018-11-01",
     "2018-12-01",
     "2019-01-01",
     "2019-02-01",
@@ -50,7 +50,6 @@ date = [
     "2020-05-01",
     "2020-06-01",
     "2020-07-01",
-    "2020-07-04",
     "2020-08-01",
     "2020-09-01",
     "2020-10-01",
@@ -75,8 +74,6 @@ date = [
     "2022-05-01",
 ]
 
-data_consumption_request = f'/telephony/{billingAccount[0]}/historyConsumption/{date[-1]}/file'
-
 client = ovh.Client(
     endpoint='ovh-eu',
     application_key=app_key,
@@ -84,10 +81,14 @@ client = ovh.Client(
     consumer_key=consumer_key
 )
 
-response = client.get(data_consumption_request, extension='received.csv')
-data = json.dumps(response, indent=4)
+for chosen_date in tqdm(date):
 
-file_response = requests.get(response['url'])
+    data_consumption_request = f'/telephony/{billingAccount[0]}/historyConsumption/{chosen_date}/file'
 
-with open(f'data_{date[-1]}_ovh', 'wb') as file:
-    file.write(file_response.content)
+    response = client.get(data_consumption_request, extension='received.csv')
+    data = json.dumps(response, indent=4)
+
+    file_response = requests.get(response['url'])
+
+    with open(f'files/raw_files/data_{chosen_date}_ovh', 'wb') as file:
+        file.write(file_response.content)
