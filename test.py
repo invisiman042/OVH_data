@@ -1,65 +1,13 @@
-import numpy as np
-import pandas as pd
-from math import isnan
-from tqdm import tqdm
+import datetime
+import matplotlib.pyplot as plt
+import matplotlib.dates as mdates
 
-serie1 = pd.Series(index=['index1', 'index2', 'index3'], data=[1, 2, 3])
+date_list1 = [datetime.time(9, 0), datetime.time(9, 10), datetime.time(9, 20)]
+date_list2 = [datetime.time(9, 0, 10), datetime.time(9, 10, 40), datetime.time(9, 20, 30)]
+values = [0, 2, 1]
 
-# print(serie1)
-# print('----------------------')
-# print(serie1.to_json(orient='split'))
-# print('----------------------')
-# print(serie1.to_json(orient='records'))
-# print('----------------------')
-# print(serie1.to_json(orient='index'))
-# print('----------------------')
-# print(serie1.to_json(orient='table'))
-
-# print(' '.join(['word', 'word2', 'word3']))
-
-date = [
-    "2018-11-01",
-    "2018-12-01",
-    "2019-01-01",
-    "2019-02-01",
-    "2019-03-01",
-    "2019-04-01",
-    "2019-05-01",
-    "2019-06-01",
-    "2019-07-01",
-    "2019-08-01",
-    "2019-09-01",
-    "2019-10-01",
-    "2019-11-01",
-    "2019-12-01",
-    "2020-01-01",
-    "2020-02-01",
-    "2020-03-01",
-    "2020-04-01",
-    "2020-05-01",
-    "2020-06-01",
-    "2020-07-01",
-    "2020-07-04",
-    "2020-08-01",
-    "2020-09-01",
-    "2020-10-01",
-    "2020-11-01",
-    "2020-12-01",
-    "2021-01-01",
-    "2021-02-01",
-    "2021-03-01",
-    "2021-04-01",
-    "2021-05-01",
-    "2021-06-01",
-    "2021-07-01",
-    "2021-08-01",
-    "2021-09-01",
-    "2021-10-01",
-    "2021-11-01",
-    "2021-12-01",
-    "2022-01-01",
-    "2022-02-01",
-    "2022-03-01",
-    "2022-04-01",
-    "2022-05-01",
-]
+plt.gca().xaxis.set_major_formatter(mdates.DateFormatter('%H:%M:%S'))
+# plt.gca().xaxis.set_major_locator(mdates.MinuteLocator(interval=10))
+plt.scatter(date_list2, values)
+plt.gcf().autofmt_xdate()
+plt.show()

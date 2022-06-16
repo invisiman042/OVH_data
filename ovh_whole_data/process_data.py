@@ -129,6 +129,8 @@ def add_json_data(data, file):
 def analyse_data(dataframe):
     '''Create a dataframe containing all calls and their attributes : total duration of the call, call with operator, if the call has been answered
     and the waiting time before that answer'''
+    support_line = 33458005709
+    sales_line = 33458005707
     output_data = {}
     total_calls = dataframe.callCount.max()
     output_dataframe = pd.DataFrame(columns=[
@@ -144,7 +146,7 @@ def analyse_data(dataframe):
 
     for call in range(1, total_calls + 1):
         total_duration_data = dataframe.loc[(dataframe['callCount'] == call) & (dataframe['phoneLine'] == 33458005730), 'duration']
-        call_duration_data = dataframe.loc[(dataframe['callCount'] == call) & (dataframe['phoneLine'] == 33458005709), 'duration']
+        call_duration_data = dataframe.loc[(dataframe['callCount'] == call) & (dataframe['phoneLine'] == support_line), 'duration']
         call_datetime = dataframe.loc[(dataframe['callCount'] == call) & (dataframe['phoneLine'] == 33458005730), 'datetime']
         calling_number = dataframe.loc[(dataframe['callCount'] == call) & (dataframe['phoneLine'] == 33458005730), 'callingNumber']
         customer_count = dataframe.loc[(dataframe['callCount'] == call) & (dataframe['phoneLine'] == 33458005730), 'customerCount']
@@ -158,7 +160,7 @@ def analyse_data(dataframe):
         total_duration = total_duration_data.values[0] if not total_duration_data.empty else None
         is_answered = True if (not call_duration_data.empty) and (call_duration_data.values[-1] != 0) \
             else False if (not call_duration_data.empty) and (call_duration_data.values[-1] == 0) \
-            and (waiting_before_answer != None) \
+            and (waiting_before_answer != None)\
             else 'not reached'
         call_duration = call_duration_data.values if not call_duration_data.empty else None
         
@@ -198,9 +200,9 @@ def pretty_print(data):
     print(json.dumps(data, indent=4, cls=nEncoder))
 
 
-def print_df_by_call(dataframe, nb_call):
+def print_df_by_call(dataframe, nb_call, start):
     '''Display processed dataframe splitted by call count'''
-    for call in range(nb_call):
+    for call in range(nb_call, start):
         print(dataframe[dataframe['callCount'] == call], '\n')
 
 
@@ -252,35 +254,41 @@ date = [
 
 def main():
     output_json_path = 'recap.json'
+    output_json_path2 = 'recap2.json'
 
-    for month in tqdm(date):
+    # for month in tqdm(date):
+    month = "2022-06-01"
 
-        file_path = f'data_{month}_ovh'
-        data, is_empty = read_csv_file('files/raw_files/' + file_path)
-        month_date = "-".join(month.split("-")[:2])
+    file_path = f'data_{month}_ovh'
+    data, is_empty = read_csv_file('files/raw_files/' + file_path)
+    month_date = "-".join(month.split("-")[:2])
 
-        if not is_empty:
-            data_ordered = process_data(data)
+    if not is_empty:
+        data_ordered = process_data(data)
 
-            output_path = f'files/ordered_files/{file_path}_ordered'
-            save_df_file(data_ordered, output_path)
+        output_path = f'files/ordered_files/{file_path}_ordered'
+        save_df_file(data_ordered, output_path)
 
-            dataframe_ordered, is_empty = read_csv_file(output_path)
+        dataframe_ordered, is_empty = read_csv_file(output_path)
 
-            output_dataframe = analyse_data(dataframe_ordered)
-            save_df_file(output_dataframe, f'files/analysed_files/{file_path}_analysed')
+        output_dataframe = analyse_data(dataframe_ordered)
+        save_df_file(output_dataframe, f'files/analysed_files/{file_path}_analysed')
 
-            call_count_data = output_dataframe.is_answered.value_counts().to_dict()
-            monthly_recap = {
-                f'{month_date}': {
-                    'data': call_count_data,
-                    'rate': call_count_data[True]/(call_count_data[True] + call_count_data[False])
-                }
+        call_count_data = output_dataframe.is_answered.value_counts().to_dict()
+        call_answered = call_count_data[True]
+        call_missed = call_count_data[False] if False in call_count_data else 0
+        total_calls = call_answered + call_missed
+
+        monthly_recap = {
+            f'{month_date}': {
+                'data': call_count_data,
+                'rate': call_answered / total_calls
             }
+        }
 
-        add_json_data(monthly_recap, output_json_path)
+    add_json_data(monthly_recap, output_json_path)
 
 if __name__ == '__main__':
     main()
-    # df, is_empty = read_csv_file('files/ordered_files/data_2022-03-01_ovh_ordered')
-    # print_df_by_call(df, 100)
+    # df, is_empty = read_csv_file('files/ordered_files/data_2022-05-01_ovh_ordered')
+    # print_df_by_call(df, 10, 100)
